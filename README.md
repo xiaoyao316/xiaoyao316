@@ -7,5 +7,5 @@
 不论成败，我想试试。<br />
 希望有更多人结伴同行。<br />
 <p></p>
-[This link](http://example.net/)
+vuex源码学习 [菜鸟教程](https://www.runoob.com)
 vuex源码学习 [vuex-mini](https://github.com/xiaoyao316/vuex-mini)。
