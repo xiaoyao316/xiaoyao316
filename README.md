@@ -5,4 +5,4 @@
 不论成败，我想试试。<br />
 希望有更多人结伴同行。<br />
 <p></p>
-vuex源码学习 [vuex-mini](https://github.com/xiaoyao316/vuex-mini)。
+vuex源码学习 [vuex-mini](https://github.com/xiaoyao316/vuex-mini)
